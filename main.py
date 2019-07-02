@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-
 import random
-
 if __name__ == '__main__':
     print("Let's Play Rock, Paper, Scissors")
     computerlist = ['R', 'P', 'S']
